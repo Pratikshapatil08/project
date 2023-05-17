@@ -1,0 +1,12 @@
+Business Entities:
+
+Employee(user):- Employee can acess the system by using login 
+
+Project manager:- A user who creates and manages projects, assigns tasks to team member, 
+and tracks progress of the project.
+
+Team member:- A user who is assigned tasks and updates progress.
+
+Stakeholder:- Stakeholder knows aall update about the project execution 
+
+Administrator:- Administrator can acess the system 

@@ -1,0 +1,27 @@
+Title :- Online Project Management System
+
+Team :- Employees,Project Manager,Delivery Manager,Stakeholders,Administrator
+
+Objective(purpose) :- The main objective of our system is to provide a help for employee and project manager,
+so due to that they execute on a project together 
+
+Functional Requirement:- 
+
+1)User Registration:  Employee have to first registered ,unregister employee(users) couldn't login they have 
+to registered first
+
+2)User Login: By using EmailId and password they can login 
+
+3)Project creation: A project manager can create a new project and set its name, description, start date, and end date.
+
+4)Task assignment: A project manager can assign tasks to team members and set their deadlines so team member 
+have to complete thei task within that deadlines.
+
+5)Task tracking: Team members can update the progress of their assigned tasks, and project managers can view
+ the progress of all tasks.
+
+6)Communication: The system will provide a messaging system for project managers and team members to communicate
+about the project.
+
+7)Reporting: The system will generate reports which will show project progress, task completion, and other relevant things.
+
